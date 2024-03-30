@@ -37,7 +37,7 @@ random_button.pack()
 MyWin.mainloop()
 ```
 
-![image-20240330131801280](C:\Users\Vacat\AppData\Roaming\Typora\typora-user-images\image-20240330131801280.png)
+![image-20240330131801280](image-20240330131801280.png)
 
 这是一个链接 [Markdown语法](https://markdown.com.cn "最好的markdown教程")
 
